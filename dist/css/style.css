@@ -9265,4 +9265,13 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.cls-p {
+  padding-left: 20px;
+  padding-top: 10px;
+  text-decoration: none;
+}
+.cls-p:hover {
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */

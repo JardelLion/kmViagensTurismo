@@ -339,3 +339,14 @@ h6,
     padding: 0;
     list-style-type: none;
 }
+
+.cls-p {
+    padding-left: 20px;
+    padding-top: 10px;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+    }
+
+}
